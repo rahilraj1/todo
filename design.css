@@ -1,0 +1,154 @@
+*
+{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.nav
+{
+    background-color: black;
+    height:35rem;
+    background-image: url("./Image/homebg.jpg");
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+}
+.ChildHead:hover
+{
+    color:cadetblue;
+}
+.heading
+{
+    color:white;
+    
+}
+.moto
+{
+    color:wheat
+}
+.hmm
+{
+    display:inline;
+}
+.ChildHead
+{
+    color:white;
+    margin-left:80%;
+    text-decoration: dashed;
+}
+.head
+{
+    text-align: center;
+    margin-top: 10rem;
+}
+.moto-btn
+{
+     text-align: center;
+     padding:0.5rem;
+     margin-left: 45%;
+     border-radius: 20px;;
+}
+.moto-btn:hover
+{
+    background-color: black;
+    color:white;
+}
+.to-do
+{
+    background-image: url("./Image/pexels-negative-space-169573.jpg");
+    background-position: center;
+    background-size: cover;
+    background-color: transparent;
+    height:50rem;
+    text-align: center;   
+}
+.box
+{
+    
+}
+.sayIt
+{
+    background-color: transparent;
+    color:wheat;
+    margin-top:120px;
+}
+.form-todo
+{
+    margin-top:1px; ;
+}
+.whats
+{
+    width:40%;
+    height:2rem;
+    border-radius: 20px;
+  
+}
+.sub
+{
+    text-align: center;
+    padding:0.5rem;
+    width:10%;
+    border-radius: 20px;
+}
+.adding
+{
+    background-color: grey;
+    height:2rem;
+    width: 42rem;
+    margin-right: 360px;
+    margin-left:250px;
+}
+.adding span
+{
+   color:black;
+   margin-right:220px;
+   display:inline
+}
+.adding button
+{
+   border-radius: 10px;
+   background-color: black;
+   color:white;
+   padding:0.3rem 0.3rem;
+   font-weight:bold;
+}
+.doit
+{
+    background-color: gray;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 2em;
+    text-align: left;
+    padding: 0.5%;
+}
+.button
+{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    text-transform: capitalize;
+}
+.done
+{
+    padding:0.6%;
+    background-color: wheat;
+    font-weight: bold;
+}
+.remove
+{
+    padding:0.6%;
+    background-color: wheat;
+    font-weight: bold;
+}
+.do:hover
+{
+    color:#06283D;
+    background-color: #FCF8E8;
+}
+.text
+{
+    color:1A374D;
+    background-color: whitesmoke;
+    font-weight: bold;
+    font-size: larger;
+}
